@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(157, 196, 157);
+    margin-left: 36px;
+}
+
+h1, p {
+    color: rgb(36, 112, 33) ;
+}
+
+input {
+    display: flex;
+    margin-top: 8px;
+}
+
+button {
+    margin-top: 8px;
+    display: block;
+    color:aliceblue;
+    background-color: rgb(36, 112, 33);
+}
+
